@@ -5,7 +5,7 @@ about:
   head: 8a9a3ea
   archived: false
   latestVersion: "v0.6.0"
-  collectedAt: 2026-09-07T04:59:34Z
+  collectedAt: 2026-09-07T19:28:55Z
 timeline:
   created: 2022-01-30
   lastCommit: 2025-05-06
@@ -79,7 +79,7 @@ total:
   commit: 70
 ---
 path: /home/runner/.x-repo/github.com/marwanhawari/stew
-collectedAt: 2026-09-07T04:59:37Z
+collectedAt: 2026-09-07T19:28:57Z
 loc:
   Go:
     code: 307509
@@ -150,7 +150,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:59:39+00:00
+  collectedAt: 2026-09-07T19:28:58+00:00
   platform:
     darwin/arm64:
       name:  stew-v0.6.0-darwin-arm64.tar.gz
