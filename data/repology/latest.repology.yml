@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: stew
+  binname: stew
+  visiblename: stew
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: outdated
+  summary: An independent package manager for compiled binaries
+  maintainers:
+    - marwanhawari@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: stew-bin
+  binname: stew-bin
+  visiblename: stew-bin
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: unique
+  summary: An independent package manager for compiled binaries
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
