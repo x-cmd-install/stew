@@ -12,6 +12,18 @@
 x install stew
 ```
 
+## Code insight
+
+Total: **316,488** lines of code across **727** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 307,509 | 33,556 | 26,960 | 672 |
+| AssemblyGAS | 7,388 | 1,265 | 1,941 | 39 |
+| Sh | 1,355 | 171 | 90 | 12 |
+| Bash | 88 | 10 | 16 | 3 |
+| Json | 66 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/marwanhawari/stew>
@@ -23,6 +35,25 @@ x install stew
 - **Latest**: `v0.6.0` (2025-04-25)
 - **Last commit**: 2025-05-06
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 354 · **Forks**: 21 · **Open issues**: 46 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 6 · **Merged PRs**: 32 · **Open PRs**: 9 · **Closed issues**: 31 · **Open issues**: 15 · **Commits**: 70
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 7 | 0 | 5 | 0 |
+| last720d | 2024-09-20 | 2 | 12 | 9 | 13 | 13 | 15 |
 
 ## Release assets
 
@@ -47,34 +78,6 @@ x install stew
 | [stew_0.6.0_linux_arm64.deb](https://github.com/marwanhawari/stew/releases/download/v0.6.0/stew_0.6.0_linux_arm64.deb) | 3.4 MiB | `native/linux/arm64` |
 | [stew_0.6.0_linux_arm64.rpm](https://github.com/marwanhawari/stew/releases/download/v0.6.0/stew_0.6.0_linux_arm64.rpm) | 3.5 MiB | `native/linux/arm64` |
 
-## Popularity
-
-- **Stars**: 354 · **Forks**: 21 · **Open issues**: 46 · **Contributors**: 7
-
-## Totals (cumulative)
-
-- **Releases**: 6 · **Merged PRs**: 32 · **Open PRs**: 9 · **Closed issues**: 31 · **Open issues**: 15 · **Commits**: 70
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 7 | 0 | 5 | 0 |
-
-## Code size
-
-Total: **316,488** lines of code across **727** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 307,509 | 33,556 | 26,960 | 672 |
-| AssemblyGAS | 7,388 | 1,265 | 1,941 | 39 |
-| Sh | 1,355 | 171 | 90 | 12 |
-| Bash | 88 | 10 | 16 | 3 |
-| Json | 66 | 0 | 0 | 1 |
-
 ## Improve this data
 
 Install metadata for stew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `stew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +87,4 @@ Install metadata for stew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:43:33Z._
