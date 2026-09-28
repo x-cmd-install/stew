@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3905743,
       "digest": null,
-      "download_count": 66,
+      "download_count": 68,
       "created_at": "2025-04-25T05:37:51Z",
       "updated_at": "2025-04-25T05:37:51Z",
       "browser_download_url": "https://github.com/marwanhawari/stew/releases/download/v0.6.0/stew-v0.6.0-darwin-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3824642,
       "digest": null,
-      "download_count": 3588,
+      "download_count": 3594,
       "created_at": "2025-04-25T05:37:52Z",
       "updated_at": "2025-04-25T05:37:53Z",
       "browser_download_url": "https://github.com/marwanhawari/stew/releases/download/v0.6.0/stew-v0.6.0-linux-amd64.tar.gz"
